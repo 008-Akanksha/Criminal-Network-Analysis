@@ -1,1 +1,1 @@
-# Criminal-Network-Analysis
+Criminal network analysis is a branch of social network analysis that focuses on understanding and studying the relationships, interactions, and associations among individuals involved in criminal activities or illicit networks. This applies network analysis techniques to identify and analyze the structure, dynamics and behavior of criminal networks.
